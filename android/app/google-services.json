@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "16729344376",
+    "project_id": "firstprojectflutter-4a776",
+    "storage_bucket": "firstprojectflutter-4a776.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16729344376:android:1b48eef3e6a6a1da66208d",
+        "android_client_info": {
+          "package_name": "com.example.firbasefutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGqVVsxH40pi-xT-T48riVjr0PNsR4maM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
